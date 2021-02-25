@@ -76,7 +76,4 @@ These instructions will get you a copy of the project up and running on your loc
 - Database : [postgresql](https://www.postgresql.org/)
 - ORM : [SQuelize](https://sequelize.org/)
 
-### Author
-
-[NGIRIMANA Schadrack](https://github.com/ngirimana/)
 
